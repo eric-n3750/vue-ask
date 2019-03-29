@@ -4,7 +4,11 @@
 
 ## Screenshot
 
+![](https://raw.githubusercontent.com/yaozhongnan/Mohen_AskAppClient/master/screenshot/home.png)
 
+![](https://raw.githubusercontent.com/yaozhongnan/Mohen_AskAppClient/master/screenshot/ask.png)
+
+![](https://raw.githubusercontent.com/yaozhongnan/Mohen_AskAppClient/master/screenshot/my.png)
 
 ## Build Setup
 
